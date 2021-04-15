@@ -1,0 +1,16 @@
+coupons/__pycache__/
+coupons/__pycache__/*.pyc
+*.py[cod]
+*$py.class
+build/
+dbs/
+*.egg-info/
+eggs/
+logs/
+log.txt
+setup.py
+test.py
+debug.log
+*.log
+*.exe
+coupons/mongodb-compass_1.26.0_amd64.deb
